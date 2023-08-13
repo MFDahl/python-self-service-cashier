@@ -8,6 +8,7 @@ Harapannya pelanggan dapat secara langsung memasukkan item barang yang dibeli se
 tersebut dan fitur lain apabila pelanggan berubah pikiran dan ingin mengubah isi list belanjanya
 
 ## LINK VIDEO 
+https://youtu.be/yXZO7hiCLx0
 
 
 ## ANALISIS PROSES YANG DIBUTUHKAN
